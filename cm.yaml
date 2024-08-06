@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: pgesql-dev-config
+data:
+  DBHOST: sistema-sqlserver
+  DBPORT: "1433"
+  DBDATABASE: ClientDB
+  ACCEPT_EULA: "Y"
+  MSSQL_PID: "Express"

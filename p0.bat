@@ -1,0 +1,1 @@
+oc login --token=sha256~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --server=https://api.ocppge.in.pge.rj.gov.br:6443
