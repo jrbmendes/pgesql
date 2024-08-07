@@ -1,1 +1,1 @@
-oc apply -f pgesql-dev-deployment.yaml
+oc apply -f deployment.yaml
